@@ -54,7 +54,7 @@ The goal is not only to generate accurate predictions but also to create a deplo
 ## Setup and Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/bitcoin-time-series-analysis.git
+   git clone https://github.com/oscarTMa/bitcoin-time-series-analysis.git
 
 ## Estructura del Repositorio
 
@@ -94,6 +94,14 @@ bitcoin-time-series-analysis/
 │                                                     
 ├── LICENSE                                                     
 ├── README.md                                                     
-└── .gitignore                                                     
+└── .gitignore                        
 
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Authors
+Oscar Tibaduiza (oscartibaduiza@hotmail.com)
 
